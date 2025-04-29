@@ -1,3 +1,16 @@
+---
+title: FitMe Agent
+emoji: 🏃
+colorFrom: red
+colorTo: indigo
+sdk: gradio
+sdk_version: 3.50.0
+app_file: src/app.py
+pinned: false
+license: mit
+short_description: An intelligent fashion recommendation agent
+---
+
 # AI Fashion Recommendation System
 
 <!-- An intelligent fashion recommendation system built with Microsoft's AI technologies. -->
@@ -58,17 +71,6 @@ python src/app.py
 MIT 
 
 
----
-title: FitMe Agent
-emoji: 🏃
-colorFrom: red
-colorTo: indigo
-sdk: gradio
-sdk_version: 5.27.1
-app_file: app.py
-pinned: false
-license: mit
-short_description: An intelligent fashion recommendation agent
----
+
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
