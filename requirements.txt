@@ -4,7 +4,7 @@ openai>=1.0.0
 azure-identity>=1.12.0
 azure-core>=1.29.0
 azure-ai-formrecognizer>=3.3.0
-gradio>=3.50.0
+gradio>=4.0.0
 transformers>=4.30.0
 torch>=2.0.0
 pillow>=9.5.0
@@ -16,6 +16,9 @@ selenium
 pandas>=1.5.0
 autogen>=0.2.0
 autogen-agentchat>=0.2.0
+segment-anything>=1.0.0
+torchvision>=0.15.0
+accelerate>=0.20.0
 
 
 # azure-identity

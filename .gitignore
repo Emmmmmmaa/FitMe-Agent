@@ -15,3 +15,9 @@ data/
 *.log
 
 draft.py
+
+# 忽略模型文件夹
+models/
+
+# 忽略reference文件夹
+src/reference

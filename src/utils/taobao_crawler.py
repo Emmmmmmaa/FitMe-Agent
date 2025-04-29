@@ -45,9 +45,9 @@ class TaobaoCrawler:
         try:
             # 等待登录成功，最多等待300秒
             WebDriverWait(self.driver, 300).until(
-                lambda driver: 'login' not in driver.current_url
+                lambda driver: not ('login' in driver.current_url or 'verify' in driver.current_url or 'validate' in driver.current_url)
             )
-            print("登录成功！")
+            print("登录和验证成功！")
             
             # 等待页面加载完成
             time.sleep(3)  # 给页面一些加载时间
