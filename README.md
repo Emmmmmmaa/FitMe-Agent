@@ -1,6 +1,6 @@
----
+<!-- ---
 title: FitMe Agent
-emoji: 🏃
+emoji: 👗
 colorFrom: red
 colorTo: indigo
 sdk: gradio
@@ -9,7 +9,7 @@ app_file: src/app.py
 pinned: false
 license: mit
 short_description: An intelligent fashion recommendation agent
----
+--- -->
 
 # AI Fashion Recommendation System
 
@@ -70,7 +70,3 @@ python src/app.py
 
 MIT 
 
-
-
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
