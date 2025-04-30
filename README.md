@@ -16,8 +16,7 @@ short_description: An intelligent fashion recommendation agent
 <!-- An intelligent fashion recommendation system built with Microsoft's AI technologies. -->
 An intelligent fashion recommendation agent powered by image segmentation, multi-modal fusion, and large language models (LLMs). It analyzes Taobao purchase history to generate personalized outfit recommendations with detailed explanations.
 
-YouTube Illustration
-https://github.com/Emmmmmmaa/FitMe-Agent![image](https://github.com/user-attachments/assets/ec1689f5-5440-4d51-9bf5-3e7df106da93)
+YouTube Link: [https://www.youtube.com/watch?v=_UJjNEYGDZk![image](https://github.com/user-attachments/assets/2915cf99-c0c0-4b8a-8afb-9a4d9a5ebc27)](https://www.youtube.com/watch?v=_UJjNEYGDZk)
 
 ## Features
 
